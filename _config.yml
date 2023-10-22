@@ -5,4 +5,4 @@
 google_analytics: G-ET8J5M70MY
 plugins:
   - jekyll-remote-theme
-remote_theme: zivhub/monophase@main
+remote_theme: nicoelayda/celeste@main
