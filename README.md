@@ -14,8 +14,7 @@ Interview: 臧传超 202000130052
 
 Survey: 方博文 202000161244
 
-Consolidate, modify and typeset all the content, add descriptions and other 
-rest: 黄艺 201900411049
+Consolidate content, modify, typeset, add descriptions: 黄艺 201900411049
 
 ## Project Proposal
 等待填写
